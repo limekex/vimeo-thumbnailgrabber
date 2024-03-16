@@ -2,6 +2,7 @@
 
 # Ignore the key file
 key.key
+config.txt
 
 # Ignore Sublime Text project files
 *.sublime-project
